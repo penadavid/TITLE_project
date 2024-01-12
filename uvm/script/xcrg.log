@@ -1,0 +1,46 @@
+
+ Options Set are : 
+
+   Command Line               : xcrg -dir C:/Users/DavidPena/Desktop/PROJEKAT/uvm/vivado_project/title_verification.sim/sim_1/behav/xsim -report_format html -report_dir C:/Users/DavidPena/Desktop/PROJEKAT/uvm
+   Help                       : 0
+   File                       : 
+   Input Dir[s]               : C:/Users/DavidPena/Desktop/PROJEKAT/uvm/vivado_project/title_verification.sim/sim_1/behav/xsim
+   Merge Dir                  : xsim.covdb
+   Merge DB Name              : xcrg_mdb
+   Report Directory           : C:/Users/DavidPena/Desktop/PROJEKAT/uvm
+   Report Format              : html
+   Code Coverage DB Path      : 
+   Merge Code Coverage        : false 
+   Show Full File in Report   : false 
+   Log File                   : xcrg.log
+   Invocation Name            : C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xcrg.exe
+
+
+                  Functional Coverage Report 
+
+ Restoring Coverage DB[s] from : 
+  1	C:/Users/DavidPena/Desktop/PROJEKAT/uvm/vivado_project/title_verification.sim/sim_1/behav/xsim\xsim.covdb\title_top_behav\xsim.covinfo
+  1	C:/Users/DavidPena/Desktop/PROJEKAT/uvm/vivado_project/title_verification.sim/sim_1/behav/xsim\xsim.dir\title_top_behav\xsim.covinfo
+
+
+ Creating Output Directory            : xsim.covdb/xcrg_mdb
+
+ Saving the Coverage Info at          : xsim.covdb/xcrg_mdb/xsim.covinfo
+
+ XILINX VIVADO is set as              : C:/Xilinx/Vivado/2020.2
+
+ Setting the report dir name as       : C:/Users/DavidPena/Desktop/PROJEKAT/uvm
+
+ INFO : Destination directory C:/Users/DavidPena/Desktop/PROJEKAT/uvm/.css is being overwritten
+ INFO : Destination directory C:/Users/DavidPena/Desktop/PROJEKAT/uvm/.js is being overwritten
+ INFO : Destination directory C:/Users/DavidPena/Desktop/PROJEKAT/uvm/.reportStyles is being overwritten
+ Creating dashboard.html 
+
+ Creating groups.html 
+
+ Creating grp0.html 
+
+ Creating grp1.html 
+
+ Creating grp2.html 
+
